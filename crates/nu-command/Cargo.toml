@@ -52,7 +52,7 @@ htmlescape = "0.3"
 indexmap = { version = "1.7", features = ["serde-1"] }
 indicatif = "0.17"
 is-root = "0.1"
-itertools = "0.10"
+itertools = "0.11"
 log = "0.4"
 lscolors = { version = "0.14", default-features = false, features = ["nu-ansi-term"] }
 md5 = { package = "md-5", version = "0.10" }
